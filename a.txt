@@ -2,4 +2,6 @@ a file added
 
 added in the branch
 
-feature-two 
+feature-two
+
+line 3 added in master
